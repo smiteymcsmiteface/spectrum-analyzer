@@ -1,5 +1,6 @@
 # spectrum-analyzer
 Spectrum analyzer for arduino
+
 Project built using Arduino v1.8.5, FastLED v3.2.0, ArduinoFHT4
 
 
@@ -13,6 +14,7 @@ Project built using Arduino v1.8.5, FastLED v3.2.0, ArduinoFHT4
  * run code should be kept to a minimum to improve processing times.  too much will break the FHT entirely
  
  Plugging something into the aux port will disconnect the mic input in hardware, no setting change required
+ 
  Additional modes/styles/etc can be added as desired, just fiddle with the map function
  
  Feel free to use and change as you wish, all I ask for is due credit :)
